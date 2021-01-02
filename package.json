@@ -1,0 +1,21 @@
+{
+    "name": "vanguardia",
+    "displayName": "Vanguardia",
+    "description": "A simple theme inspired by the colors of Vue",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vanguardia",
+                "uiTheme": "vs",
+                "path": "./themes/Vanguardia-color-theme.json"
+            }
+        ]
+    }
+}
